@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\OneDrive\\Documentos\\AJ\\Sistema_de_Vendas\\Sistema_de_Vendas\\Sistema_de_Vendas.csproj": {}
+    "C:\\Users\\Aluno\\Documents\\Jaqueline\\Livros\\Sistema_de_Vendas\\Sistema_de_Vendas\\Sistema_de_Vendas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\OneDrive\\Documentos\\AJ\\Sistema_de_Vendas\\Sistema_de_Vendas\\Sistema_de_Vendas.csproj": {
+    "C:\\Users\\Aluno\\Documents\\Jaqueline\\Livros\\Sistema_de_Vendas\\Sistema_de_Vendas\\Sistema_de_Vendas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\OneDrive\\Documentos\\AJ\\Sistema_de_Vendas\\Sistema_de_Vendas\\Sistema_de_Vendas.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\Jaqueline\\Livros\\Sistema_de_Vendas\\Sistema_de_Vendas\\Sistema_de_Vendas.csproj",
         "projectName": "Sistema_de_Vendas",
-        "projectPath": "C:\\Users\\usuario\\OneDrive\\Documentos\\AJ\\Sistema_de_Vendas\\Sistema_de_Vendas\\Sistema_de_Vendas.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\OneDrive\\Documentos\\AJ\\Sistema_de_Vendas\\Sistema_de_Vendas\\obj\\",
+        "projectPath": "C:\\Users\\Aluno\\Documents\\Jaqueline\\Livros\\Sistema_de_Vendas\\Sistema_de_Vendas\\Sistema_de_Vendas.csproj",
+        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aluno\\Documents\\Jaqueline\\Livros\\Sistema_de_Vendas\\Sistema_de_Vendas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -63,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

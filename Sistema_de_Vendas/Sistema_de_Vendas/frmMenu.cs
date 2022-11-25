@@ -16,5 +16,10 @@ namespace Sistema_de_Vendas
         {
             InitializeComponent();
         }
+
+        private void frmMenu_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
