@@ -17,6 +17,7 @@ namespace Sistema_de_Vendas
         public Form1()
         {
             InitializeComponent();
+            
         }
 
         
@@ -35,6 +36,7 @@ namespace Sistema_de_Vendas
         private void pictureBox2_MouseDown(object sender, MouseEventArgs e)
         {
             txt_senha.UseSystemPasswordChar = false;
+            
         }
 
         private void pictureBox2_MouseUp(object sender, MouseEventArgs e)
